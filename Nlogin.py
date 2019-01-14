@@ -347,7 +347,7 @@ def mentionMembers(to, mid):
 
 def myhelp():
     myHelp = """╔══════════════┓
-╠     VҜ ŚẾL₣ВΌŦ
+╠     NUMLAIKENG SELFBOT
 ╚══════════════┛
 ╔══════════════┓
 ╠❋►Me ↔คอนแทค
@@ -362,7 +362,7 @@ def myhelp():
 ╠❋►ทีมบอท
 ╠❋►Creator
 ╠❋►Sp
-╰═❋™❋णลՁ७णњຸ່ஆ❂ลךधطのს❋  »"""
+╰═❋NUMLAIKENG SELFBOT»"""
     return myHelp
 
 def listgrup():
@@ -401,7 +401,7 @@ def listgrup():
 ╠❋►ล้างแบน @
 ╠❋►เตะแบน
 ╠❋►เช็คไอดี
-╰═❋™❋णลՁ७णњຸ່ஆ❂ลךधطのს❋ »"""
+╰═❋NUMLAIKENG SELFBOT»"""
     return listGrup
 
 def socmedia():
@@ -423,7 +423,7 @@ def socmedia():
 ╠❋►ไอจี 
 ╠❋►เวลา
 ╠❋►ขอหื่น
-╰═❋™❋णลՁ७णњຸ່ஆ❂ลךधطのს❋  »"""
+╰═❋NUMLAIKENG SELFBOT»"""
     return socMedia
 
 def helpset():
@@ -478,7 +478,7 @@ def helpset():
 ╠❋►ชื่อ;
 ╠❋►ตัส;
 ╠❋►Spam on ↔ off
-╰═❋BY:™❋णลՁ७णњຸ່ஆ❂ลךधطのს❋ """
+╰═❋BY:NUMLAIKENG SELFBOT"""
     return helpSet
 
 def helpsetting():
@@ -514,7 +514,7 @@ def helpsetting():
 ╠❋►กันกลุ่ม ↔ ปิดกันกลุ่ม
 ╠❋►กันเข้า ↔ ปิดกันเข้า
 ╠❋►เปิดหมด ↔ ปิดหมด
-╰══❋BY: ™❋णลՁ७णњຸ່ஆ❂ลךधطのს❋  """
+╰══❋BY:NUMLAIKENG SELFBOT"""
     return helpSetting
 
 def helptexttospeech():
@@ -544,7 +544,7 @@ def helptexttospeech():
 ╠❋► sr : เซอเบียร์
 ╠❋► th : ไทย
 ╠❋► vi : เวียดนาม
-╰═❋BY: ™❋णลՁ७णњຸ່ஆ❂ลךधطのს❋  »
+╰═❋BY: NUMLAIKENG SELFBOT »
 
 「วิธีใช้ : พูด พี่คะหนูเงี่ยน」"""
     return helpTextToSpeech
@@ -585,7 +585,7 @@ def helplanguange():
 ╠❋► ru : รัสเซีย
 ╠❋► th : ไทย
 ╠❋► zu : ซูลู
-╰═❋BY: ™❋णลՁ७णњຸ່ஆ❂ลךधطのს❋  »
+╰═❋BY: NUMLAIKENG SELFBOT »
  
 「วิธีใช้ : Tr-th ตามด้วยคำที่จะแปล」"""
     return helpLanguange
