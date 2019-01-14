@@ -401,7 +401,7 @@ def listgrup():
 ╠❋►ล้างแบน @
 ╠❋►เตะแบน
 ╠❋►เช็คไอดี
-╰═❋VҜ ŚẾL₣ВΌŦ »"""
+╰═❋NUMLAIKENGBOT »"""
     return listGrup
 
 def socmedia():
@@ -478,7 +478,7 @@ def helpset():
 ╠❋►ชื่อ;
 ╠❋►ตัส;
 ╠❋►Spam on ↔ off
-╰═❋BY: VҜ ŚẾL₣ВΌŦ"""
+╰═❋BY:NUMLAIKENGBOT"""
     return helpSet
 
 def helpsetting():
@@ -514,7 +514,7 @@ def helpsetting():
 ╠❋►กันกลุ่ม ↔ ปิดกันกลุ่ม
 ╠❋►กันเข้า ↔ ปิดกันเข้า
 ╠❋►เปิดหมด ↔ ปิดหมด
-╰══❋BY: VҜ ŚẾL₣ВΌŦ """
+╰══❋BY: NUMLAIKENGBOT """
     return helpSetting
 
 def helptexttospeech():
@@ -585,7 +585,7 @@ def helplanguange():
 ╠❋► ru : รัสเซีย
 ╠❋► th : ไทย
 ╠❋► zu : ซูลู
-╰═❋BY: VҜ ŚẾL₣ВΌŦ »
+╰═❋BY: NUMLAIKENGBOT »
  
 「วิธีใช้ : Tr-th ตามด้วยคำที่จะแปล」"""
     return helpLanguange
